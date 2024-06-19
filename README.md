@@ -1,0 +1,2 @@
+# postgresql-practice
+practicing  sql 
